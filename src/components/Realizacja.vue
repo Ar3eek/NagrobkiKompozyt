@@ -3,7 +3,7 @@ import { Phone, Clock, Truck } from "lucide-vue-next";
 </script>
 
 <template>
-  <section class="w-full bg-stone-50 py-20">
+  <section class="w-full  py-20">
     <div class="max-w-6xl mx-auto px-6 text-center text-gray-800">
       <!-- Nagłówek -->
       <h2 class="text-3xl md:text-4xl font-serif font-semibold tracking-wide mb-12">

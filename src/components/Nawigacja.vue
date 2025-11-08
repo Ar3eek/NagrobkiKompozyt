@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-black text-white shadow-md">
+  <nav class="bg-black text-white shadow-md sticky z-50 top-0">
     <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
       <!-- Logo z ikoną nagrobka -->
       <router-link to="/" class="flex items-center  ">
@@ -11,7 +11,7 @@
       </router-link>
 
       <!-- Menu -->
-      <ul class="hidden md:flex space-x-8 text-sm font-semibold leading-tight  ">
+      <ul class="hidden md:flex space-x-8 text-sm font-sans leading-tight  ">
         <router-link to="/Wzory" class="relative group ">
           Wzory
           <span class="absolute left-1/2 bottom-0 w-0 h-0.5 bg-white transition-all duration-300 group-hover:w-full group-hover:left-0"></span>

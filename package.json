@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@vueuse/head": "^2.0.0",
+    "framer-motion": "^12.23.24",
+    "gsap": "^3.13.0",
     "lucide-vue-next": "^0.553.0",
     "vue": "^3.3.4",
     "vue-router": "^4.2.5"

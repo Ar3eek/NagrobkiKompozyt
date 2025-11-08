@@ -8,13 +8,13 @@ import Cena from "../components/Cena.vue";
 </script>
 
 <template>
-  <main class="bg-atone-50">
+  <main class="bg-stone-100">
     <Nawigacja />
     <ZdjecieNaGlownej />
-    <Realizacja/>
-    <Wzory/>
-    <Cena/>
-    <Stopka/>
+    <Realizacja />
+    <Wzory />
+    <Cena />
+    <Stopka />
   </main>
 </template>
 

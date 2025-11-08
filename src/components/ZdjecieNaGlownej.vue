@@ -23,14 +23,11 @@
   </div>
 
   <!-- Blok tekstowy poniżej -->
-  <div class="w-full bg-stone-50 py-20">
+  <div class="w-full py-20">
     <div class="max-w-4xl mx-auto px-6 md:px-0">
-      <h2
-          class="text-3xl md:text-4xl font-serif font-semibold text-center text-gray-800 mb-10 tracking-wide"
-      >
+      <h2 class="text-3xl md:text-4xl font-serif font-semibold text-center text-gray-800 mb-10 tracking-wide" >
         Czym są nagrobki kompozytowe?
       </h2>
-
       <div class="space-y-6 text-gray-700 text-lg leading-relaxed text-justify">
         <p>
           Nagrobki kompozytowe to połączenie elegancji i trwałości. Wykonane z
@@ -39,7 +36,6 @@
           atmosferycznych. Ich struktura przypomina kamień naturalny, lecz jest znacznie
           lżejsza i bardziej odporna.
         </p>
-
         <p>
           Każdy pomnik wykonany z kompozytu to połączenie
           <span class="font-semibold text-gray-900">nowoczesnej formy i klasycznej powagi</span>.
@@ -51,7 +47,6 @@
           <span class="font-semibold text-gray-900">czyste, estetyczne i trwałe</span>,
           a przy tym zachowały naturalne piękno bez potrzeby częstej renowacji.
         </p>
-
         <p>
           Ceny nagrobków kompozytowych zaczynają się od
           <span class="font-semibold text-gray-900">2999 zł</span>.
@@ -59,7 +54,6 @@
           <span class="italic text-gray-800">pamięć, spokój i szacunek</span>.
         </p>
       </div>
-
       <div class="mt-12 text-center">
         <span class="inline-block w-24 border-t border-gray-400"></span>
         <p class="mt-6 text-gray-600 italic text-base">
@@ -68,8 +62,6 @@
       </div>
     </div>
   </div>
-
-
 </template>
 
 <style scoped>

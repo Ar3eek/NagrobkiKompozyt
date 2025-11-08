@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <section class="w-full bg-stone-50 py-20">
+  <section class="w-full  py-20">
     <div class="max-w-4xl mx-auto px-6 text-center">
       <!-- Nagłówek -->
       <h2 class="text-3xl md:text-4xl font-serif font-semibold text-gray-800 mb-6">

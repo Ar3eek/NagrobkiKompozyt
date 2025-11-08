@@ -51,7 +51,7 @@
     <!-- Dolna belka -->
     <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center mt-8 text-gray-500 text-sm">
       <p>© 2025 Nagrobki Kompozytowe. Wszelkie prawa zastrzeżone.</p>
-      <p class="mt-2 md:mt-0">Projekt i realizacja: <span class="text-gray-300"><a href="https://arkadiuszkorzeniowski.pl/">AK</a></span></p>
+      <p class="mt-2 md:mt-0">Projekt i realizacja: <span class="text-gray-300"><a href="https://arkadiuszkorzeniowski.pl/" class="">A.K</a></span></p>
     </div>
   </footer>
 </template>
